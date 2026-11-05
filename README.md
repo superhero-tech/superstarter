@@ -2,7 +2,7 @@
 
 ![Superstarter — a rocket in a construction hangar](docs/assets/superstarter-cover.png)
 
-An application starter for working with Codex: Next.js, shadcn/ui on Base UI, Supabase Auth, and automated quality checks.
+An application starter for working with AI agents: Next.js, shadcn/ui on Base UI, Supabase Auth, and automated quality checks.
 
 ## Demo preview
 
